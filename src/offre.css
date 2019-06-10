@@ -1,0 +1,107 @@
+.card{
+    padding:7% 0;
+    margin-bottom:4%;
+    margin-top:2%;
+    padding-bottom:0;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    
+}
+.card-subtitle{
+    padding-left:4%;
+    padding-right:4%;
+    color:#9B9B9B;
+}
+.card-title{
+    font-weight: bold;
+    padding-left:4%;
+    padding-right:4%;
+}
+.card-body{
+    padding-left:4%;
+    padding-right:4%;
+    
+    color:#9B9B9B;
+}
+
+.date-container, .reads-container{
+    display:inline-block;
+    width:50%;
+    color:#fff;
+}
+.date-container .date-value, .reads-container .reads{
+    font-weight:bold;   
+
+}
+
+.card-bottom-band{
+    background-color:#255DCA;
+    padding-bottom:5%;
+    padding-top:5%;
+    padding-left:4%;
+    padding-right:4%;
+}
+.truncate{
+
+
+}
+
+.color1{
+    color:#BCD2EE;
+}
+.color1:hover{
+    color:#9AACC3;
+}
+.color2{
+    color:#9B7EDE;
+}
+.color2:hover{
+    color:#9B7EDE;
+}
+.color3{
+    color:#832161;
+}
+.color3:hover{
+    color:#832161;
+}
+.color4{
+    color:#52050A;
+}
+.color4:hover{
+    color:rgb(54, 3, 7);
+}
+.color5{
+    color:#76E7CD;
+}
+.color5:hover{
+    color:#61BEA8;
+}
+.bcolor1{
+    background-color:#BCD2EE;
+}
+.bcolor1:hover{
+    background-color:#9AACC3;
+}
+.bcolor2{
+    background-color:#9B7EDE;
+}
+.bcolor2:hover{
+    background-color:#9B7EDE;
+}
+.bcolor3{
+    background-color:#832161;
+}
+.bcolor3:hover{
+    background-color:#832161;
+}
+.bcolor4{
+    background-color:#52050A;
+}
+.bcolor4:hover{
+    background-color:rgb(54, 3, 7);
+}
+.bcolor5{
+    background-color:#76E7CD;
+}
+.bcolor5:hover{
+    background-color:#61BEA8;
+}

@@ -1,0 +1,16 @@
+.disclaimer-box{
+    background-color:#323A57;
+    margin-top:1%;
+    padding:2% 10%;
+    margin-bottom: 1%;
+    color:#CCCCCC;
+    font-weight:600;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+ .disclaimer-box p{
+    text-align: justify;
+    text-justify: inter-word;
+ }
+
+ 

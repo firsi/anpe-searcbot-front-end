@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family:  "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#F7F3F3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+footer{
+  background-color:#fff;
+  padding:4%;
+  color:#9B9B9B;
+  font-weight: 700;
+}

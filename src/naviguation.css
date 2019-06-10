@@ -1,0 +1,31 @@
+.naviguation-container{
+    background-color:#fff;
+    border-bottom: 1px solid #C9C7C7;
+}
+.navbar-brand{
+    font-size:35px;
+    color:#376884 !important;
+    font-weight: 700;
+    
+}
+.navbar {
+    padding-top:2%;
+    padding-bottom:2%;
+    
+}
+.navbar-brand span{
+    font-size:20px;
+}
+.navig-link {
+    color:#868686;
+    font-size:18px;
+    font-weight: 700;
+    display: inline-block;
+}
+.link-bottom-border:active{
+    border-bottom: 2px solid #376884;
+}
+.navig-link:hover{
+    color:#376884 !important;
+    text-decoration: #376884 !important;
+}
